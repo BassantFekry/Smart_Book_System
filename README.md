@@ -10,7 +10,7 @@ It demonstrates how to organize, clean, and visualize data using different tools
 - Data cleaning and preprocessing.  
 - Interactive dashboards for insights.  
 
-## 🛠Project Workflow
+## Project Workflow
 1. Created the initial **system scenario**.  
 2. Designed the **Entity Relationship Diagram (ERD)**.  
 3. Built the **Database Schema**.  
