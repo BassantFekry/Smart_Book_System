@@ -1,0 +1,246 @@
+﻿Branch_id,Branch_name,Address,Manager_id
+3,West Division,Unknown,5
+8,Tech Campus,Unknown,6
+12,Operations Hub,Unknown,18
+15,Logistics Depot,Unknown,29
+19,Digital Lab,Unknown,25
+23,West Division,Unknown,5
+28,Tech Campus,Unknown,6
+32,Operations Hub,Unknown,18
+35,Logistics Depot,Unknown,29
+39,Digital Lab,Unknown,25
+44,Riverside Division,Unknown,39
+47,Harbor Center,Unknown,42
+50,Lakeview Hub,Unknown,45
+53,Industrial Park,Unknown,48
+56,Eastern Plaza,Unknown,51
+59,Westport Branch,Unknown,54
+63,Central Park Hub,Unknown,58
+66,Maplewood Studio,Unknown,61
+69,Downtown Hub,Unknown,64
+72,Greenwood Station,Unknown,67
+75,Uptown Division,Unknown,70
+78,Westend Hub,Unknown,73
+81,Seaside Branch,Unknown,76
+84,Lakeside Division,Unknown,79
+87,Eastgate Office,Unknown,82
+90,Sunrise Hub,Unknown,85
+93,Hillview Branch,Unknown,88
+96,Downtown Office,Unknown,91
+99,Foresthill Division,Unknown,94
+102,Central Office,Unknown,97
+105,Southgate Campus,Unknown,100
+108,Westend Plaza,Unknown,103
+111,Downtown Station,Unknown,106
+114,Hilltop Campus,Unknown,109
+117,Northshore Hub,Unknown,112
+120,Downtown Plaza,Unknown,115
+123,Greenfield Hub,Unknown,118
+126,Northpoint Campus,Unknown,121
+130,Central Station,Unknown,125
+133,Foresthill Campus,Unknown,128
+136,Eastgate Hub,Unknown,131
+139,Hilltop Division,Unknown,134
+142,Downtown Office,Unknown,137
+145,Westend Division,Unknown,140
+148,Northpoint Office,Unknown,143
+151,Harbor Campus,Unknown,146
+154,Sunrise Branch,Unknown,149
+158,Eastside Hub,Unknown,153
+161,Downtown Station,Unknown,156
+165,Greenfield Office,Unknown,160
+168,Southgate Plaza,Unknown,163
+171,Eastgate Office,Unknown,166
+174,Downtown Center,Unknown,169
+178,Uptown Plaza,Unknown,173
+181,Northpoint Hub,Unknown,176
+184,Harbor Campus,Unknown,179
+187,Downtown Hub,Unknown,182
+190,Westgate Center,Unknown,185
+193,Northshore Plaza,Unknown,188
+196,Lakefront Division,Unknown,191
+199,Central Plaza,Unknown,194
+202,Harbor Campus,Unknown,197
+205,Sunset Station,Unknown,200
+208,Uptown Office,Unknown,203
+211,Sunrise Division,Unknown,206
+214,Harborview Office,Unknown,209
+217,Downtown Station,Unknown,212
+220,Westgate Branch,Unknown,215
+223,Northpoint Division,Unknown,218
+226,Harbor Campus,Unknown,221
+229,Sunrise Division,Unknown,224
+231,Bayfront Station,Unknown,226
+234,Greenwood Branch,Unknown,229
+237,Central Plaza,Unknown,232
+240,Lakefront Division,Unknown,235
+243,Bayview Hub,Unknown,238
+1,Main Office,123 Business St,1
+2,North Region,45 North Ave,3
+4,East-Office,76 East Blvd,2
+5,Central Hub,98 Center Road,8
+6,South Branch,12 South Street,4
+7,International Hq,555 Global Ave,7
+9,Innovation Lab,42 Idea Lane,9
+10,Marketing Center,100 Ad Street,10
+11,Creative Studio,88 Design Lane,14
+13,Research  Base,404 Lab Street,21
+14,Community Center,200 People Road,26
+16,Satellite Branch,77 Orbit Street,32
+17,Training Academy,150 Learn Ave,35
+18,West-Coast Hq,350 Pacific Blvd,12
+20,Strategic Unit,500 Strategy St,20
+21,Main Office,123 Business St,1
+22,North Region,45 North Ave,3
+24,East Office,76 East Blvd,2
+25,Central Hub,98 Center Road,8
+26,South Branch,12 South Street,4
+27,International Hq,555 Global Ave,7
+29,Innovation Lab,42 Idea Lane,9
+30,Marketing Center,100 Ad Street,10
+31,Creative Studio,88 Design Lane,14
+33,Research Base,404 Lab Street,21
+34,Community Center,200 People Road,26
+36,Satellite Branch,77 Orbit Street,32
+37,Training Academy,150 Learn Ave,35
+38,West-Coast Hq,350 Pacific Blvd,12
+40,Strategic Unit,500 Strategy St,20
+41,Northwest Office,13 Pine Road,36
+42,Downtown Branch,27 Maple Street,37
+43,Suburban Hub,55 Oak Avenue,38
+45,Eastside Office,72 Elm Street,40
+46,Uptown Branch,18 Birch Avenue,41
+48,Metro Campus,91 Cedar Road,43
+49,Westend Studio,34 Spruce Lane,44
+51,Southgate Branch,63 Willow Drive,46
+52,Market District,80 Poplar Street,47
+54,Tech Innovation Center,44 Redwood Road,49
+55,Central Station,58 Aspen Street,50
+57,Greenfield Hub,22 Hazel Lane,52
+58,Midtown Office,75 Pine Hill,53
+60,Riverfront Station,68 Maple Lane,55
+61,Sunnyvale Office,33 Chestnut Street,56
+62,Northpoint Branch,90 Oakwood Avenue,57
+64,Bayview Division,15 Spruce Street,59
+65,Hilltop Campus,29 Cedar Lane,60
+67,Eastfield Branch,50 Birch Road,62
+68,Southside Office,84 Willow Avenue,63
+70,Lakefront Branch,42 Elm Street,65
+71,Industrial Center,77 Hazel Lane,66
+73,Rivergate Campus,36 Maplewood Drive,68
+74,Sunset Plaza,59 Pine Street,69
+76,Hillcrest Office,83 Cedar Avenue,71
+77,Eastlake Branch,28 Birchwood Road,72
+79,Forest Park Station,17 Willow Street,74
+80,Downtown Campus,65 Spruce Lane,75
+82,Maple Grove Office,49 Elm Avenue,77
+83,Central Plaza,81 Oak Street,78
+85,Harborview Hub,38 Maple Lane,80
+86,Riverbend Branch,53 Cedar Street,81
+88,Northshore Campus,74 Birch Lane,83
+89,Greenfield Division,26 Pine Road,84
+91,Bayfront Office,67 Oak Avenue,86
+92,Uptown Plaza,39 Willow Road,87
+94,Central Station,92 Spruce Avenue,89
+95,Riverside Hub,31 Maple Street,90
+97,Westgate Branch,60 Cedar Lane,92
+98,Lakeview Campus,24 Birchwood Road,93
+100,Sunset Plaza,41 Pine Street,95
+101,Northpoint Hub,54 Oak Lane,96
+103,Eastside Branch,70 Maple Street,98
+104,Harbor Station,35 Cedar Road,99
+106,Riverfront Division,29 Birch Lane,101
+107,Uptown Office,88 Pine Avenue,102
+109,Greenwood Branch,42 Oakwood Road,104
+110,Lakeside Hub,65 Spruce Street,105
+112,Sunrise Division,51 Maple Lane,107
+113,Bayfront Office,33 Cedar Avenue,108
+115,Central Plaza,79 Birch Road,110
+116,Rivergate Branch,22 Pine Street,111
+118,Eastgate Office,58 Oak Street,113
+119,Forestpark Division,41 Willow Lane,114
+121,Lakeside Branch,36 Spruce Lane,116
+122,Seaside Office,67 Maplewood Drive,117
+124,Hillcrest Division,29 Cedar Street,119
+125,Sunset Station,83 Birch Lane,120
+127,Bayfront Office,42 Pine Road,122
+128,Uptown Branch,58 Oak Avenue,123
+129,Westgate Hub,35 Willow Street,124
+131,Riverbend Office,62 Maple Lane,126
+132,Downtown Plaza,18 Cedar Avenue,127
+134,Sunrise Division,73 Birch Road,129
+135,Northshore Branch,27 Pine Street,130
+137,Lakeside Office,51 Oak Lane,132
+138,Harborview Plaza,39 Willow Road,133
+140,Central Branch,60 Spruce Avenue,135
+141,Riverfront Campus,24 Maple Street,136
+143,Bayfront Hub,65 Cedar Lane,138
+144,Uptown Plaza,41 Birchwood Road,139
+146,Greenwood Station,54 Pine Street,141
+147,Sunset Branch,28 Oak Avenue,142
+149,Central Plaza,70 Willow Lane,144
+150,Eastside Hub,33 Spruce Street,145
+152,Lakeside Division,77 Maple Lane,147
+153,Hillcrest Station,36 Cedar Avenue,148
+155,Northshore Office,53 Birch Road,150
+156,Bayview Branch,45 Harbor Drive,151
+157,Northgate Office,38 Cedarwood Ave,152
+159,Hilltop Center,71 Spruce Street,154
+160,Sunset Plaza,22 Oakwood Lane,155
+162,Riverbend Branch,59 Maple Road,157
+163,Uptown Campus,27 Pine Avenue,158
+164,Westport Hub,64 Birch Lane,159
+166,Lakefront Station,33 Willow Road,161
+167,Foresthill Branch,52 Cedar Street,162
+169,Central Campus,46 Oak Avenue,164
+170,Northshore Division,20 Birch Lane,165
+172,Harborview Hub,55 Maple Street,167
+173,Sunrise Branch,31 Pine Road,168
+175,Westend Campus,44 Willow Lane,170
+176,Greenwood Station,29 Cedarwood Drive,171
+177,Bayfront Office,60 Oak Street,172
+179,Hillcrest Branch,34 Birch Lane,174
+180,Sunset Division,78 Maple Avenue,175
+182,Central Station,21 Pine Street,177
+183,Eastside Branch,43 Cedar Road,178
+185,Lakeside Plaza,50 Willow Street,180
+186,Forestpark Office,25 Oakwood Lane,181
+188,Bayview Division,37 Birchwood Road,183
+189,Uptown Branch,69 Maple Street,184
+191,Greenfield Station,48 Pine Road,186
+192,Sunrise Office,30 Cedar Avenue,187
+194,Eastgate Hub,56 Willow Lane,189
+195,Harborview Branch,41 Oak Street,190
+197,Foresthill Campus,23 Birch Lane,192
+198,Southgate Office,63 Maple Avenue,193
+200,Northpoint Branch,29 Pine Street,195
+201,Eastside Hub,54 Cedar Road,196
+203,Lakeside Branch,40 Willow Lane,198
+204,Hillcrest Office,22 Oakwood Drive,199
+206,Downtown Campus,65 Birchwood Road,201
+207,Riverbend Hub,28 Maple Street,202
+209,Westend Branch,35 Pine Avenue,204
+210,Greenwood Plaza,70 Cedar Road,205
+212,Northshore Station,31 Willow Lane,207
+213,Eastgate Campus,59 Oak Street,208
+215,Lakefront Branch,44 Birch Lane,210
+216,Foresthill Division,26 Maple Avenue,211
+218,Bayview Campus,50 Pine Street,213
+219,Uptown Hub,36 Cedar Road,214
+221,Greenfield Office,42 Willow Lane,216
+222,Sunset Plaza,63 Oak Street,217
+224,Central Hub,39 Birch Lane,219
+225,Eastside Branch,57 Maple Avenue,220
+227,Lakeside Office,24 Pine Street,222
+228,Hillcrest Branch,60 Cedar Road,223
+230,Northshore Plaza,38 Willow Lane,225
+232,Uptown Campus,33 Oak Street,227
+233,Westend Office,55 Birch Lane,228
+235,Sunset Hub,27 Maple Avenue,230
+236,Northpoint Office,62 Pine Street,231
+238,Eastside Hub,45 Cedar Road,233
+239,Harborview Branch,34 Willow Lane,234
+241,Foresthill Office,49 Oak Street,236
+242,Downtown Campus,37 Birch Lane,237
+244,Uptown Branch,56 Maple Avenue,239
+245,Westgate Station,40 Pine Street,240

@@ -1,0 +1,503 @@
+﻿Author_id,Author_name
+1,John Smith
+2, Mary Johnson
+3,Li Wei
+4,Unknown
+5,Anna Marie
+6,Jeanluc  Picard
+7,Maria  Garca
+8,Robert  Brown
+9,Emily  Davis
+10, King
+11,Chris Neil
+12,Samantha  Lopez
+13,William Zhang
+14,Fatima Al   Ali
+15,Hans  Mller
+16,Clara  De Souza
+17,Ahmed Khaled
+18,Victoria Hara
+19,Michael Roberts
+20,Lcia  Fernndez
+21, Andrew Thomas
+22,Yuki Tanaka
+23,George Washington
+24,Ivan  Petrov
+25,Sofia  Rossi
+26,Peter Chan
+27,Hlne  Dubois
+28,David   Clarke
+29,Carla  Mendes
+30,Francois  Moreau
+31,Markus  Jensen
+32,Mohamed  Ahmed
+33,Sara Lee
+34,Jorge  Martnez
+35,Unknown
+36,Martin  King
+37,Unknown
+38,Tariq  Hussain
+39,Alexis Kim
+40,Chen Long
+41,Brigitte   Laurent
+42,Patricia  Wong
+43,Lus Costa
+44,Andrea   Ricci
+45,Pawe   Nowak
+46,Unknown
+47,Omar   Farouk
+48, Christoph Schmid
+49,Aye   Ylmaz
+50, Hiroshi Sato
+51,Elena  Ivanova
+52,Unknown
+53,Susan  Clark
+54,Lars   Johansson
+55,David  Oconnell
+56,Roberto  Silva
+57,Marie  Antoinette
+58,Kwame  Mensah
+59,Unknown
+60,Nadia Petrova
+61,Hassan  Ali
+62,Giulia   Romano
+63,Agnieszka   Kowalska
+64,Fernando   Lpez
+65,Helmut   Schfer
+66,Sung Park
+67,Unknown
+68,Frank   Williams
+69,Tom Novk
+70,Nguyen   Van  Anh
+71,Olivia Walker
+72,Abdullah  Rashid
+73,Chloe Evans
+74,Petra Novak
+75, Daniel  Mller
+76,Marta   Kowalczyk
+77,Leonardo   Bianchi
+78, Sarah   Mitchell
+79,Paul   Evans
+80,Lucy   Carter
+81,Thiago   Oliveira
+82,Khalid   Mahmoud
+83,Noah   White
+84,Sophie   King
+85,Felix   Meier
+86,Unknown
+87,Unknown
+88,Miguel   Prez
+89,Haruto   Suzuki
+90,Emma   Thompson
+91,Liam   Murphy
+92,   Kate   Hughes
+93,Nikolai   Smirnov
+94,Gabriel   Santos
+95,Marwan   Youssef
+96,Unknown
+97,  Zara Khan
+98,Kevin Hall
+99,Unknown
+100,Yusuf  Ismail
+101,Lucas   Ferreira
+102,Amelia   Scott
+103,Unknown
+104,Charlotte   Allen
+105,Victor Morales
+106,Anastasia   Kuznetsova
+107,Unknown
+108,Elif   Kaya
+109,Fiona   Bell
+110,Sen   Murphy
+111,Clment   Lefevre
+112,Unknown
+113,Nina   Petrovic
+114,Denis   Ivanov
+115,Paula   Sousa
+116,Miguel   Gomes
+117,Unknown
+118,Zainab   Abbas
+119,Erik   Hansen
+120,Jonathan   Black
+121,Camila   Herrera
+122,Hassan   Omar
+123,George   Hill
+124,  Mattia   Conti
+125,Elena   Rossi
+126,Unknown
+127,Lucas   Meyer
+128,Aria   Taylor
+129,Ibrahim   Hassan
+130,Nadine   Mller
+131,  Rafael   Almeida
+132,Marcel   Schneider
+133,Hiro   Watanabe
+134,Shin   Yamamoto
+135,Ella   Carter
+136,Said   Rahman
+137,Leon   Becker
+138,Unknown
+139,Alejandro   Cruz
+140,Santiago   Torres
+141,Aisha   Yusuf
+142,Unknown
+143,Anja   Schmidt
+144,Carmen   Prez
+145,Pedro   Morales
+146,Mei   Chen
+147,Unknown
+148,Xiang   Zhao
+149,Ming   Hu
+150,Ling   Sun
+151,Cheng   Wu
+152,Liang   Zhou
+153,Wei   Feng
+154,Yuan   Zhu
+155,Tao   Liu
+156,Qiang   Huang
+157,Shu   Lin
+158,Ying   Xu
+159,Zhao   Guo
+160,Kai   Tang
+161,Chao   Ma
+162,Xin   Yang
+163,Jin   Gao
+164,Hui   Han
+165,Bo   Ye
+166, Feng   Shi
+167,Zhen   Cao
+168, Yong   He
+169, Lei   Pan
+170,Yu   Song
+171,Yifan   Luo
+172, Guang   Xie
+173,Yue Chen
+174,Hao   Yang
+175,  Leandro   Mendes
+176,Juliana   Ferreira
+177,Carolina   Lima
+178,Andre   Souza
+179,  Marcelo   Barros
+180,Luana   Castro
+181,Fabio   Martins
+182,Claudia   Rocha
+183,Bruno   Cardoso
+184,Fernanda   Duarte
+185,Rodrigo   Pires
+186,Patricia   Alves
+187,Eduardo   Teixeira
+188,Tatiana   Cunha
+189,Mauricio   Araujo
+190,Unknown
+191,Paulo   Barbosa
+192,Isabela   Figueiredo
+193,Renato   Monteiro
+194,Unknown
+195,Cesar   Pinto
+196,Mariana   Gomes
+197,Antonio   Da Silva
+198,Douglas   Vieira
+199,Raquel  Andrade
+200,Felipe   Ramos
+201,Aline   Torres
+202, Sergio   Nascimento
+203,Ricardo   Correia
+204,Unknown
+205,Joao  Almeida
+206,Leticia   Moreira
+207,Thiago   Ribeiro
+208,Unknown
+209,Marcos Cunha
+210,Alexandre   Costa
+211, Camila   Silva
+212,Mr  Ahmed    Ali
+213,Sofia    Lpez
+214,  George  Oconnor
+215,Paul  Martin
+216,Elena   Petrova
+217,Jrgen  Mller
+218,David Thomas
+219,Fatima   Khan
+220,Noah   Williams
+221,Santiago  Hernndez
+222, Mr Samuel Lee
+223,Olivia  White
+224, Lucas   Brown
+225,Megan  Oneil
+226,Ngel   Fernndez
+227,Peter   Parker
+228, Sarah   Taylor
+229,Hiroshi    Tanaka
+230,Mohamed   Salah
+231, Mr   Robert   Ford
+232,Alice    Johnson
+233,Charles   Leblanc
+234, Luca   Rodrguez
+235,Andrew    Clark
+236,Emma   Thompson
+237,  Victor  Hugo
+238,Natalia   Petrova
+239,Mark   Spencer
+240,Matteo    Rossi
+241,Ivan   Ivanov
+242,Benjamin    Franklin
+243,Tom   Harper
+244,Emily   Bront
+245, Michel   De Montaigne
+246,Sebastin   Prez
+247,Luis  Surez
+248,Anna  Kournikova
+249, Mr  James   Bond
+250, Harry   Potter
+251,Ron   Weasley
+252,Hermione  Granger
+253,Frodo  Baggins
+254,Samwise  Gamgee
+255,Gandalf  The Grey
+256,Aragorn Son Of Arathorn
+257,Legolas  Greenleaf
+258, Gimli  Son Of Gloin
+259,Boromir    Of Gondor
+260, Mr   Denethor  Ii
+261,Galadriel   Lady Of Lothlorien
+262,Elrond    Halfelven
+263,Celebran
+264,   Thranduil
+265, Tauriel
+266,Thorin   Oakenshield
+267,Balin
+268, Dwalin
+269,Kili
+270, Fili
+271, Bifur
+272,Bofur
+273, Bombur
+274, Bard  The  Bowman
+275, Smaug
+276,Beorn
+277, Radagast The  Brown
+278,Saruman  The  White
+279,Sauron
+280,Melkor
+281, Morgoth
+282,Feanor
+283,  Fingolfin
+284,Finarfin
+285,Maedhros
+286, Maglor
+287,Celegorm
+288,Caranthir
+289,Curufin
+290,Amrod
+291,Amras
+292, Thingol
+293,Melian
+294, Beren
+295, Luthien
+296, Turin  Turambar
+297, Ninor
+298,Hurin
+299, Huor
+300,Harry Potter
+301, Harry   Potter
+302,Mr Harry Potter
+303,Harry  J Potter
+304,Dr Harry Potter
+305,Ron Weasley
+306,Ronald   Weasley
+307,Ron Weasly
+308,Mrs Hermione Granger
+309,Hermione Granger
+310,Hermione  Jean  Granger
+311,Albus Dumbledore
+312,Professor  Albus Dumbledore
+313, A Dumbledore
+314,Draco Malfoy
+315,Draco    Malfoy
+316,D Malfoy
+317,Ginny Weasley
+318,Ginny   Weasley
+319,Arthur Dent
+320,Arthur    Dent
+321,Mr Dent
+322,Ford Prefect
+323,Ford  Prefect
+324,Zaphod Beeblebrox
+325, Zaphod Beeblebrox
+326,Z Beeblebrox
+327,Trillian Astra
+328,Trillian   Astra
+329,William Turner
+330,William   Turner
+331,Will Turner
+332,Elizabeth Swann
+333,Elizabeth   Swann
+334,Jack Sparrow
+335, Captain Jack Sparrow
+336,Jack   Sparrow
+337,George Kirk
+338,James   Kirk
+339,Captain James T Kirk
+340,Spock
+341,Mr Spock
+342,Doctor Spock
+343,Leonard Mccoy
+344,Dr Leonard Mccoy
+345,Pavel Chekov
+346,Chekov   Pavel
+347,Hikaru Sulu
+348,Nyota Uhura
+349,Montgomery Scott
+350,Scotty
+351,Mr Scotty
+352,Jean Grey
+353,Jean   Grey
+354,Scott Summers
+355,Mr Scott Summers
+356,Logan
+357,Wolverine
+358,Professor X
+359,Charles Xavier
+360,Charles  Xavier
+361,Erik Lensherr
+362,Magneto
+363,Raven Darkholme
+364,Mystique
+365,Ororo Munroe
+366,Storm
+367,Hank Mccoy
+368,Beast
+369,Bobby Drake
+370,Iceman
+371,Peter Rasputin
+372,Colossus
+373,Kitty Pryde
+374,Shadowcat
+375,Kurt Wagner
+376,Nightcrawler
+377,Alex Summers
+378,Havok
+379,Lorna Dane
+380,Polaris
+381,Emma Frost
+382,Sebastian Shaw
+383,Selene Gallio
+384,Donald Pierce
+385,Arcade
+386,Moira Mactaggert
+387,Cable
+388,Bishop
+389,Hope Summers
+390,Deadpool
+391,Vanessa Carlysle
+392,Weasel
+393,Ajax
+394,Blind Al
+395,Dopinder
+396,Yukio
+397,Negasonic Teenage Warhead
+398,Michael  Stone
+399, Dr Michael Stone
+400,Michael   P Stone
+401,Lisa Clark
+402, Ms Lisa Clark
+403,Lisa   Clark
+404,Andrew Taylor
+405,Andrew  M Taylor
+406, A Taylor
+407,Karen White
+408,Mrs Karen White
+409,Karen   L White
+410,Paul Anderson
+411,Mr Paul Anderson
+412,Paul   Anderson
+413,Steven King
+414,Steven   R King
+415, Steven King
+416,Richard Hall
+417,Richard   Hall
+418,Richard  D Hall
+419,Patrick Evans
+420,Patrick  J Evans
+421,P Evans
+422,Benjamin Cooper
+423,Benjamin   Ali
+424,Ben Cooper
+425,Susan  Ward
+426, Susan Ward
+427,Susan  L Ward
+428,Victoria   Reed
+429,Victoria Reed
+430,Vic Reed
+431,Jason   Morgan
+432,Mr Jason Morgan
+433,Jason Morgan
+434,Thomas Bell
+435, Thomas Bell
+436,Thomas Bell
+437,Nicholas Clark
+438,Nicholas  Clark
+439,N Clark
+440,Daniel  Foster
+441,Daniel Foster
+442,Dan Foster
+443,Matthew   Ross
+444,Matthew Ross
+445, Matt Ross
+446,Mark   Simmons
+447,Mark Simmons
+448,Mark S Simmons
+449,Julie   Morris
+450,Julie Morris
+451,J Morris
+452,Carol   Bailey
+453,Carol Bailey
+454,Carol R Bailey
+455,Oliver Hughes
+456,Oliver Hughes
+457,Oliver H
+458,Timothy  Green
+459,Timothy Green
+460,Tim Green
+461,Ethan  Long
+462,Ethan Long
+463,E Long
+464,Jeremy   Scott
+465,Jeremy Scott
+466,Jeremy L Scott
+467,Luke Adams
+468,Luke Adams
+469,L Adams
+470,Philip Baker
+471,Philip Baker
+472,Philip M Baker
+473,Arthur Mitchell
+474,Arthur Mitchell
+475,Arthur J Mitchell
+476,Henry   Carter
+477,Henry Carter
+478,H Carter
+479,Samuel   Murray
+480,Samuel Murray
+481,Sam Murray
+482,George  Coleman
+483,George Coleman
+484,G Coleman
+485,Charles   Perry
+486,Charles Perry
+487,Charlie Perry
+488,Ralph   Webb
+489,Ralph Webb
+490,R Webb
+491,Harold   Grant
+492,Harold Grant
+493,H Grant
+494,Franklin   Jordan
+495,Franklin Jordan
+496,Frank Jordan
+497,Frederick  Lawrence
+498,Frederick Lawrence
+499,Fred Lawrence
+500,Leonard   Spencer
+501,Leonard Spencer
+502,Leo Spencer

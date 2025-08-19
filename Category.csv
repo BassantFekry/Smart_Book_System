@@ -1,0 +1,186 @@
+﻿Category_id,Category_name
+1,fiction
+2,thriller
+3,memoir
+4,biography memoir
+5,self help
+6,history
+7,science fiction
+8,sci fi
+9,romance
+10,romantic
+11,mystery
+12,mysteries
+13,fantasy
+14,fantasy fiction
+15,drama
+16,play
+17,poetry
+18,poems
+19,children
+20,children’s books
+21,childrens books
+22,young adult
+23,ya fiction
+24,adventure
+25,adventure stories
+26,horror
+27,horror fiction
+28,crime
+29,crime stories
+30,non fiction
+31,nonfiction
+32,comics
+33,comic books
+34,graphic novel
+35,graphic novels
+36,cookbook
+37,cookbooks
+38,cook books
+39,art
+40,fine art
+41,photography
+42,photo books
+43,travel
+44,travel guides
+45,guide
+46,guides
+47,reference
+48,reference books
+49,health
+50,wellness
+51,well being
+52,fitness
+53,sports
+54,sport
+55,music
+56,musical
+57,religion
+58,religious
+59,spirituality
+60,self improvement
+61,motivational
+62,business
+63,business & economics
+64,business economics
+65,economics
+66,technology
+67,tech
+68,computers
+69,computer science
+70,programming
+71,coding
+72,software
+73,software development
+74,data science
+75,analytics
+76,machine learning
+77,artificial intelligence
+78,ai
+79,deep learning
+80,mathematics
+81,math
+82,statistics
+83,science
+84,physics
+85,chemistry
+86,biology
+87,geography
+88,astronomy
+89,space
+90,engineering
+91,civil engineering
+92,mechanical engineering
+93,electrical engineering
+94,medical
+95,medicine
+96,nursing
+97,nurse
+98,dentistry
+99,pharmacy
+100,veterinary
+101,law
+102,legal studies
+103,politics
+104,political science
+105,government
+106,govt
+107,social science
+108,social sciences
+109,anthropology
+110,psychology
+111,sociology
+112,archaeology
+113,linguistics
+114,languages
+115,english
+116,french
+117,spanish
+118,german
+119,italian
+120,russian
+121,chinese
+122,japanese
+123,korean
+124,arabic
+125,latin
+126,short stories
+127,short story
+128,mythology
+129,fairy tales
+130,fairy tale
+131,romantic comedy
+132,urban fantasy
+133,dystopian
+134,dystopia
+135,magical realism
+136,historical fiction
+137,contemporary fiction
+138,war & military
+139,war military
+140,classic literature
+141,satire
+142,detective
+143,suspense
+144,epic
+145,novella
+146,autobiography
+147,memoir & essays
+148,memoir essays
+149,guidebook
+150,guide book
+151,encyclopedia
+152,dictionary
+153,handbook
+154,hand book
+155,manual
+156,yearbook
+157,year book
+158,anthology
+159,speech
+160,letters
+161,journals
+162,reports
+163,essays
+164,documentary
+165,travelogue
+166,travel logue
+167,cook book
+168,architecture
+169,geology
+170,meteorology
+171,oceanography
+172,environmental studies
+173,criminology
+174,forensics
+175,cultural studies
+176,gender studies
+177,media studies
+178,communication
+179,art history
+180,theatre
+181,dance
+182,film studies
+183,television studies
+184,game studies
+185,information technology
